@@ -1,5 +1,3 @@
-print("Enter your name: ")
-name=input()
+name = raw_input("Enter your name:")
 
-if name is "Bucky":
- print("Hey there bucky")
+print "Hello", name
