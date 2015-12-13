@@ -5,7 +5,9 @@ I get bored and declare and execute weird functions in this way.
 """
 
 def beautiful():  #declaration of function... empty parenthesis means function takes no arguments
-    print "She's beautiful" #this is what function does... print this string
+    print "I love you" #this is what function does... print this string
+
+beautiful()
 
 print "She talks to me because"
 beautiful() # here function is called and executed
